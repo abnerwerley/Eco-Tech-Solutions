@@ -48,6 +48,7 @@ int realizarLogin()
 
     if (verificarLogin(usuarios, nome, senha))
     {
+        system("cls");
         printf("Login bem-sucedido. Bem-vindo, %s!\n", nome);
         if (ehAdmin)
         {

@@ -59,8 +59,7 @@ int menuCliente()
         atualizarDados();
         break;
     case 3:
-    
-        // gerarRelatorios();
+        desambiguarRelatorios();
         break;
     case 4:
         gerenciar();
