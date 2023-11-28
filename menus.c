@@ -7,7 +7,9 @@
 
 int menuAdmin()
 {
+     struct Cliente clientes[MAX_CLIENTES];
     int opcao;
+    
 
     printf("\nMenu Inicial:\n");
     printf("1. Cadastrar cliente\n");
@@ -20,7 +22,7 @@ int menuAdmin()
     switch (opcao)
     {
     case 1:
-        cadastrarCliente();
+        cadastrarCliente(clientes);
         break;
     case 2:
         gerenciar();
@@ -57,7 +59,8 @@ int menuCliente()
         atualizarDados();
         break;
     case 3:
-        gerarRelatorios();
+    
+        // gerarRelatorios();
         break;
     case 4:
         gerenciar();
