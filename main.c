@@ -10,4 +10,4 @@ int main()
     printf("para comecar vamos ao seu login:\n");
     realizarLogin();
     return 0;
-};
+}
