@@ -18,3 +18,12 @@ Sem IDE:
   2. Na pasta do projeto, clicar com o botão direito e abrir o terminal.
   3. inserir o comando 'cd output/'
   4. inserir o comando './"main.exe"'
+
+---
+
+### Manual do Usuário:
+O sistema da Eco Tech Solutions tem duas jornadas:
+Uma para nós, administradores, em que cadastramos um novo cliente, com informações básicas para fazer login, e também gerenciar esses clientes
+E outra jornada para os clientes em si, em que é possível cadastrar suas indústrias, atualizar dados delas, gerencias as indústrias, e gerar relatórios.
+
+Para o seu primeiro acesso, entre em contato conosco pelo email ecotechsolutionsltda@outlook.com para negociarmos o contrato e gerarmos seu acesso.
